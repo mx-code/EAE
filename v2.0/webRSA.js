@@ -47,7 +47,7 @@ function toArr (args, len = 3) {
   return arr;
 }
 
-class EAE {
+class webRSA {
   constructor (args) {
     args && this.init(args);
   }
@@ -118,5 +118,4 @@ class EAE {
     };
   };
 }
-
-export default EAE;
+export default webRSA;

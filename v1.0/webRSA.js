@@ -5,7 +5,7 @@
  */
 
 let options = {};
-// "1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM%~!@#$^&*()-=_+[]{};',./<>?\\| ";
+// "1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM%~!*()-_'.";
 
 /**
  * 加密

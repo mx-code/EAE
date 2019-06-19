@@ -4,9 +4,9 @@
  * @Last Modified time: 2019-06-18 14:09:22 
  */
 
-// "1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM%~!@#$^&*()-=_+[]{};',./<>?\\| "
+// "1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM%~!*()-_'."
 
-class EAE {
+class webRSA {
   constructor (args) {
     this.options = {};
     args && this.init(args);
@@ -86,4 +86,4 @@ class EAE {
     };
   }
 }
-export default EAE;
+export default webRSA;

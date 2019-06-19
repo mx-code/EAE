@@ -1,0 +1,8 @@
+{
+  "name": "webRSA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mx-code/webRSA.git",
+  "author": "xia_wenxing",
+  "license": "MIT"
+}
